@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Inda Khoirun Nisak</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
